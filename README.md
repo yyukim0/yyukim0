@@ -4,11 +4,8 @@
   Atualmente, estou explorando o desenvolvimento em C# por meio de projetos práticos e desafios. Sempre fui atraído pela resolução de problemas e pela criação de soluções, e foi essa curiosidade que me levou a iniciar na programação.
 </p>
 
-<p align="left">
-  https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"  align="left">
 
-  https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"  align="left">
 
-  https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-
-</p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  align="left">
