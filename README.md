@@ -3,7 +3,7 @@
 <p align="left"> 
 🍃I'm <a href="https://www.linkedin.com/in/kau%C3%AA-de-sousa-ibiapino/">yukimo</a> and welcome to my profile!🍃
 
-🟩 I like to program 🟩
+🟩 I like to program 🟩 <br>
 🟪 and I like C# 🟪
 </p>
 
